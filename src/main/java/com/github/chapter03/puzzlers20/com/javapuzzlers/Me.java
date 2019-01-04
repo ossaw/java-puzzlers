@@ -1,0 +1,7 @@
+package com.github.chapter03.puzzlers20.com.javapuzzlers;
+
+public class Me {
+    public static void main(String[] args) {
+        System.out.println(Me.class.getName().replaceAll(".", "/") + ".class");
+    }
+}

@@ -37,3 +37,6 @@ ehthumbs.db
 Thumbs.db
 /target/
 /bin/
+.idea/
+classes/
+java-puzzlers.iml
